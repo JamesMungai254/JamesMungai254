@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @JamesMungai254
-- 👀 I’m interested in ...pentesting
 - 🌱 I’m currently learning ...Data Science
-- 💞️ I’m looking to collaborate on ...Programming Projects
+- 👀 Currently interested in Machine
+-  💞️ I’m looking to collaborate on Datascience,Machine Learning and AI Projects
 - 
-- 📫 How to reach me ...mungaijames6303@gmail.com
+- 📫 You can reach me through my Email mungaijames6303@gmail.com
 
 <!---
 JamesMungai254/JamesMungai254 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
