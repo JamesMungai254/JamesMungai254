@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JamesMungai254
 
--  💞️ I’m looking to collaborate on Datascience,Machine Learning and AI Projects
+-  💞️ I’m looking to collaborate on Database administration, Data Analysis,Machine Learning,  and AI Projects
 - 
 - 📫 You can reach me through my Email mungaijames6303@gmail.com
 
