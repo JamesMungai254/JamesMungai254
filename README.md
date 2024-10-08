@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Mungai
 
--  💞️ Am currently pursuing Data Science and Software Engineering Student 
+-  💞️ Am currently pursuing Data Science and Software Engineering
 
 - 📫 You can reach me through my Email mungaijames6303@gmail.com
 
