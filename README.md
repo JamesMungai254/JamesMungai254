@@ -22,8 +22,7 @@ I am passionate about machine learning, artificial intelligence, and software en
 - React.js
 - Streamlit
 - Jupyter Notebook
-- Docker
-- Kubernetes
+
 
 ### Additional Skills
 - Strong foundation in statistics
