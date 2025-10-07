@@ -20,24 +20,24 @@ I specialize in integrating ML models into production-ready applications and dep
 ## 🛠️ Technical Skills
 
 ### 💻 Programming Languages
-- Python 🐍
-- JavaScript ⚡
-- Java ☕
-- C++
-- HTML / CSS 🌐
-- R 📊
+- Python 🐍  
+- JavaScript ⚡  
+- Java ☕  
+- C++  
+- HTML / CSS 🌐  
+- R 📊  
 
 ### 🧩 Frameworks & Tools
-- Django 🕸️
-- React.js ⚛️
-- Streamlit 🚀
-- Jupyter Notebook 📒
-- Git & GitHub 🧠
-- AWS ☁️
+- Django 🕸️  
+- React.js ⚛️  
+- Streamlit 🚀  
+- Jupyter Notebook 📒  
+- Git & GitHub 🧠  
+- AWS ☁️  
 
 ### 📈 Additional Skills
-- Strong foundation in **Statistics & Data Analysis**
-- Experienced in **creating, training, and deploying ML models**
+- Strong foundation in **Statistics & Data Analysis**  
+- Experienced in **creating, training, and deploying ML models**  
 - Skilled in **API design and software integration**
 
 ---
@@ -46,8 +46,8 @@ I specialize in integrating ML models into production-ready applications and dep
 
 | Project | Description |
 |----------|--------------|
+| 🩻 [AI-Powered Tuberculosis Detection using Chest X-Ray Images](https://github.com/JamesMungai254/TB-XRay-Diagnosis) | A professional AI diagnostic system designed to detect **tuberculosis (TB)** from chest X-ray images using deep learning. The model leverages convolutional neural networks (CNNs) for automated medical analysis and adheres to **Kenya’s Data Protection Act (2019)** for ethical AI healthcare deployment. |
 | 🌿 [Maize Leaf Disease Prediction](https://maizeleafdiseaseprediction.streamlit.app/) | A deep learning project that predicts maize leaf diseases from uploaded images to assist farmers in early detection. |
-| 📚 [OKOASEM](https://github.com/JamesMungai254/OKOASEM) | A platform that enables students to upload and share learning materials efficiently, fostering collaboration and accessibility. |
 | 📖 [Book Recommendation System](https://github.com/JamesMungai254/Book-Recommendation-System) | A personalized recommendation system suggesting books based on user age and ratings. |
 
 🔍 Explore more of my repositories to see how I blend **data science, AI, and software engineering** in creative ways.
