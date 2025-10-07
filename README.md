@@ -1,6 +1,5 @@
 # Welcome to My GitHub Page
 
-Hello! My name is James Mungai. I am a student at Jomo Kenyatta University of Agriculture and Technology, pursuing a B.Sc. in Data Science and Analytics. Additionally, I have also studied Software Engineering at the Power Learn Project (PLP).
 
 ## About Me
 
